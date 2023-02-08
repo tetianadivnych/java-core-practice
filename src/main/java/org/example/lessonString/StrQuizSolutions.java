@@ -41,6 +41,5 @@ public class StrQuizSolutions {
         System.out.println(task);
         task = task.replace('\\', '_');
         System.out.println(task);
-
     }
 }
